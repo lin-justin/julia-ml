@@ -1,2 +1,3 @@
-# julia-ml
-A collection of practicing Julia for machine learning
+# Julia
+
+A collection of machine learning files for practicing Julia.
